@@ -16,7 +16,7 @@ import glob
 
 K.set_image_dim_ordering('th')
 
-path = 'C:/Users/AD/Downloads/Images/'
+path = './Images/'
 
 data = []
 labels = []
